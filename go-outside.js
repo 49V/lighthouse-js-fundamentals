@@ -1,5 +1,5 @@
 var temperature = 12;
-var isCitizen = true;
+var isCitizen = temperaturerue;
 var age = 20;
 
 if (temperature < 0) {
